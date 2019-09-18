@@ -1,46 +1,73 @@
 # Title
+Student Idea Swap
 
 ## Executive Summary
 
-*Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
+This document serves to show the requirements for the Student Idea Swap Project.  It will give information on items such as background, scope and the functional requirements of the project.  You will be given timeline, assumptions and possible limitations.  This document should serve as the overall outline for the project.
+
 
 ## Business Objectives
 
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+This project will help to empower students to collaborate with each other. Students can glean ideas from each other and increase their networking skills.  Student Idea Swap will also increase communication skills as the students work together on a joint effort.
+
 
 ## Background
 
-*Provide any relevant background information regarding why this project is being initiated*
+This project gives students a virtual way to work together on projects.  They will be able to work with students across the globe, no longer restricted by face to face.  
+
 
 ## Scope
+Develop a web application which will allow students to connect with like-minded students for projects.
 
-*The Scope section should outline what is and is not included as part of this project.  Oftentimes we make assumptions of features or functionality that is not necessarily required.  This is especially useful in a phased approach or when working on an existing system.*
+The student should be able to log into the above mentioned web application and either post an idea for a project or search for other student's ideas to find something they are interested in working on.
+
+Create a way for the students to connect with each other and discuss working together. 
+
+Something that is quick to market. 
+
+Define some features that would motivate students to engage in using this platform to connect and build better communication.
+
 
 ## Functional requirements
 
-*This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
-
+Web application - allows users to log in and post project ideas, collaborate with others
+User profiles with login and authentication
+Some type of revision control system
+Community board for posting
 
 ## Personnel requirements
 
-*In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
+Project manager
+Dedicated development - 4 or more people
+
 
 ## Delivery schedule
 
-*It's often helpful to break a project out into phases or milestones.  In this section list out any logical checkpoints where you would like to see the project demonstrated to ensure that expectations are being met.  Describe the phase, and the functional requirements required for completion.*
+Web application - 3 months to build
+Some type of revision control system - 1 month
+Community board for posting - 1 month
+
+Total time for project - 6 months from start date
+
 
 ## Other requirements
 
-*This section serves as a catch-all for any details that may not fit in other areas.  things like device or browser support, considerations for accessibility or inspiration for style.  Offer additional context here to ensure the project meets your vision*
+Chrome Web Browser
+IOS or Android 
+
 
 ## Assumptions
 
-*Oftentimes we are reliant on outside sources such as frameworks to be used, or services that our system will depend on.  In this section you should provide detail on any assumptions that you have made, such as the system being reliant on the availability of the Google Maps API.*
+Will be reliant on Exter log in system for user authentication
+
 
 ## Limitations
 
-*Identify any limitations in terms of time, personnel, technical details, or other things that limit the scope, time, and cost of the project being discussed.*
+Allow for possible set backs in project due to technical difficulties 
+
 
 ## Risks
 
-*Every project has inherent risks that may cause delay or even failure of a project.  You must identify this risks to show you know what they are, and also identify ways in which you would mitigate those risks.*
+Possible non interest in the new application by students.  
+
+
